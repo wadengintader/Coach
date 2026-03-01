@@ -17,42 +17,42 @@ const AnimatedBackground = () => {
 
       <div className="fixed inset-0 pointer-events-none overflow-hidden opacity-15">
           <Image
-            src="https://i.imgur.com/8cgJLZT.png"
+            src="https://i.imgur.com/KN7YiIH.png"
             alt=""
             width={100}
             height={100}
             className="absolute top-20 left-10 w-21 h-21 object-contain animate-float-gentle delay-1000"
           />
           <Image
-            src="https://i.imgur.com/hyn00lu.png"
+            src="https://i.imgur.com/RHAxFFT.png"
             alt=""
             width={160}
             height={160}
             className="absolute top-32 right-10 w-20 h-20 object-contain animate-float-gentle"
           />
           <Image
-            src="https://i.imgur.com/ryhMjGh.png"
+            src="https://i.imgur.com/JSXJnLn.png"
             alt=""
             width={160}
             height={160}
             className="absolute top-1/3 left-20 w-20 h-20 object-contain animate-float-gentle"
           />
           <Image
-            src="https://i.imgur.com/mWWe1cL.png"
+            src="https://i.imgur.com/FMedd1I.png"
             alt=""
             width={160}
             height={160}
             className="absolute top-1/1 right-24 w-20 h-20 object-contain animate-float-gentle"
           />
           <Image
-            src="https://i.imgur.com/EL40cK6.png"
+            src="https://i.imgur.com/d1NRpOM.png"
             alt=""
             width={160}
             height={160}
             className="absolute bottom-40 left-16 w-20 h-20 object-contain animate-float-gentle"
           />
           <Image
-            src="https://i.imgur.com/iqWCI2L.png"
+            src="https://i.imgur.com/Rl8pjtw.png"
             alt=""
             width={80}
             height={80}
